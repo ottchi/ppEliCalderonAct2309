@@ -6,8 +6,7 @@
 
 # PROYECTOS DE PROGRAMACIÓN
 ### 30/09/2020
-<br>
-<br>
+
 ## Descripición:
 |  Carnet |   Nombre |
 | ------------ | ------------ |
