@@ -19,8 +19,9 @@
 		<li>Archivo 2</li>
 		<li>Archivo 3</li>
 	</ul>
-	|  Carnet |   Nombre |
-| ------------ | ------------ |
-	    
+
+	<img src="imagenes/usac.jpg">
+	<img src="imagenes/efpem.png">
+
 </body>
 </html>
