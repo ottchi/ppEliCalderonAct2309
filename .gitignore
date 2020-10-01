@@ -1,0 +1,15 @@
+#Archivos a ingonrar de Otto
+
+#Archivos de Word
+*.doc
+*.docx
+
+#Archivos de Excel
+*.xls
+*.xlsx
+
+#Archivos de Imagen
+*.gif
+
+#Carpetas
+configuracion/
