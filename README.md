@@ -18,6 +18,9 @@
 		<li>Archivo 1</li>
 		<li>Archivo 2</li>
 		<li>Archivo 3</li>
-	</ul>	    
+	</ul>
+	|  Carnet |   Nombre |
+| ------------ | ------------ |
+	    
 </body>
 </html>
