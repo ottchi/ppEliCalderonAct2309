@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
-	<title>Proyecto contro colegio</title>
 </head>
 <body>
 
 # PROYECTOS DE PROGRAMACIÓN
+### 30/09/2020
+<br>
+<br>
 ## Descripición:
 |  Carnet |   Nombre |
 | ------------ | ------------ |
