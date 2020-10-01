@@ -20,8 +20,7 @@
 		<li>Archivo 3</li>
 	</ul>
 
-	<img src="imagenes/usac.jpg">
-	<img src="imagenes/efpem.png">
+	
 
 </body>
 </html>
